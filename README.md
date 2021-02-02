@@ -1,5 +1,8 @@
 # Contador de Pessoas (People Counter)
 
+Desenvolvido apenas para aprendizado.
+It was developed for learning only.
+
 A new Flutter application.
 
 ## Getting Started
